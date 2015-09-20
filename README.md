@@ -143,9 +143,9 @@ Peer-to-Peer
 
 *	[torrent-log](https://github.com/substack/torrent-log)
 	-	message feed over bittorrent
-*	
 *	[GitTorrent](https://github.com/cjb/GitTorrent)
 	-	A decentralization of Github using BitTorrent and Bitcoin
+*
 
 
 ## Companies
