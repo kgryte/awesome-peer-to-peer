@@ -104,8 +104,8 @@ Peer-to-Peer
 	-	get a magnet link from a torrent file
 *	[peervisionary](https://github.com/mafintosh/peervisionary)
 	-	CLI combining airswarm and peervision
-*	[ipfs](https://github.com/ipfs/ipfs)
-	-	distributed file system
+*	[serverless-webrtc](https://github.com/cjb/serverless-webrtc)
+	-	 serverless WebRTC
 
 
 
@@ -126,6 +126,8 @@ Peer-to-Peer
 	-	simple peer-to-peer with WebRTC
 *	[go-peerstream](https://github.com/jbenet/go-peerstream)
 	-	P2P multi-multiplexing in Go
+*	[ipfs](https://github.com/ipfs/ipfs)
+	-	distributed file system
 *	
 
 
@@ -142,6 +144,8 @@ Peer-to-Peer
 *	[torrent-log](https://github.com/substack/torrent-log)
 	-	message feed over bittorrent
 *	
+*	[GitTorrent](https://github.com/cjb/GitTorrent)
+	-	A decentralization of Github using BitTorrent and Bitcoin
 
 
 ## Companies
@@ -160,7 +164,12 @@ Peer-to-Peer
 *	[rtc.io](https://rtc.io/modules.html)
 *	[webtorrent.io](https://webtorrent.io/)
 	-	webtorrents for NodeJS and the browser
-
+*	[chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
+*	[webrtc-ring](http://blog.daviddias.me/2014/12/20/webrtc-ring)
+	-	resource discovery
+*	[P2P design](https://www.youtube.com/watch?v=_3eBT46vkaI)
+	-	Dominic Tarr on P2P design issues
+*
 
 
 ## Other
@@ -170,7 +179,7 @@ Peer-to-Peer
 
 ## People
 
-*	[mafinitosh](https://github.com/mafintosh?tab=repositories)
+*	[mafintosh](https://github.com/mafintosh?tab=repositories)
 *	[feross](https://github.com/feross?tab=repositories)
 *	[substack](https://github.com/substack?tab=repositories)
 *	[dominictarr](https://github.com/dominictarr?tab=repositories)
