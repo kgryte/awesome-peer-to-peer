@@ -105,7 +105,10 @@ Peer-to-Peer
 *	[peervisionary](https://github.com/mafintosh/peervisionary)
 	-	CLI combining airswarm and peervision
 *	[serverless-webrtc](https://github.com/cjb/serverless-webrtc)
-	-	 serverless WebRTC
+	-	serverless WebRTC
+*	[peer](https://github.com/peers/peerjs-server)
+	-	peerjs server
+*
 
 
 
