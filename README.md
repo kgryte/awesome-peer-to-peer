@@ -110,7 +110,7 @@ Peer-to-Peer
 	-	peerjs server
 *	[scuttlebutt](https://github.com/dominictarr/scuttlebutt)
 	-	real-time replication
-*	[secure-scuttlebut](https://github.com/ssbc/secure-scuttlebutt)
+*	[secure-scuttlebutt](https://github.com/ssbc/secure-scuttlebutt)
 	-	secure database with replication
 *	[scuttlebucket](https://github.com/dominictarr/scuttlebucket)
 	-	nested scuttlebutts
