@@ -108,6 +108,22 @@ Peer-to-Peer
 	-	serverless WebRTC
 *	[peer](https://github.com/peers/peerjs-server)
 	-	peerjs server
+*	[scuttlebutt](https://github.com/dominictarr/scuttlebutt)
+	-	real-time replication
+*	[secure-scuttlebut](https://github.com/ssbc/secure-scuttlebutt)
+	-	secure database with replication
+*	[scuttlebucket](https://github.com/dominictarr/scuttlebucket)
+	-	nested scuttlebutts
+*	[scuttleboat](https://github.com/kumavis/scuttleboat)
+	-	dynamic scuttlebucket
+*	[rtc-SCAMP](https://github.com/chat-wane/rtc-SCAMP)
+	-	scalable membership protocol
+*	[rtc-SCAMP-mbr](https://github.com/Chat-Wane/rtc-SCAMP-mbr)
+	- 	scalable membership protocol
+*	[network](https://github.com/justayak/network)
+	-	arbitrary network implementations between clients
+*	[BoundedBroadcastDefinition](https://github.com/Chat-Wane/BoundedBroadcastDefinition)
+	-	broadcasting component on top of communication overlay
 *
 
 
@@ -172,7 +188,13 @@ Peer-to-Peer
 	-	resource discovery
 *	[P2P design](https://www.youtube.com/watch?v=_3eBT46vkaI)
 	-	Dominic Tarr on P2P design issues
-*
+*	[webgc](https://hal.inria.fr/hal-01080032/document)
+	-	gossiping
+*	[topology](https://github.com/Raynos/topology)
+	-	different network topologies
+*	[gossip](http://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf)
+*	[membership management](http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf)
+
 
 
 ## Other
