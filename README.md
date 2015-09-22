@@ -194,6 +194,7 @@ Peer-to-Peer
 	-	different network topologies
 *	[gossip](http://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf)
 *	[membership management](http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf)
+*	[ipfs](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
 
 
 
