@@ -128,6 +128,15 @@ Peer-to-Peer
 	-	distributed master-less node discovery
 *	[k-bucket](https://github.com/tristanls/k-bucket)
 	-	DHT k-bucket implementation
+* 	[gossipmonger](https://github.com/tristanls/gossipmonger)
+	-	real-time replication with scuttlebutt
+*	[kadoh](https://github.com/jinroh/kadoh)
+	-	kademlia over HTTP
+*	[kademlia-dht](https://github.com/jeanlauliac/kademlia-dht)
+	-	DHT
+*	[kademlia](https://github.com/nikhilm/kademlia)
+	-	kademlia
+*	
 
 
 
