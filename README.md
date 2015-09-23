@@ -124,7 +124,11 @@ Peer-to-Peer
 	-	arbitrary network implementations between clients
 *	[BoundedBroadcastDefinition](https://github.com/Chat-Wane/BoundedBroadcastDefinition)
 	-	broadcasting component on top of communication overlay
-*
+*	[discover](https://github.com/tristanls/discover)
+	-	distributed master-less node discovery
+*	[k-bucket](https://github.com/tristanls/k-bucket)
+	-	DHT k-bucket implementation
+
 
 
 
@@ -195,6 +199,8 @@ Peer-to-Peer
 *	[gossip](http://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf)
 *	[membership management](http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf)
 *	[ipfs](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
+*	[dynamic search](http://www.sciencedirect.com/science/article/pii/S0743731510001735)
+*	
 
 
 
