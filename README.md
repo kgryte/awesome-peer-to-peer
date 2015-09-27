@@ -136,7 +136,9 @@ Peer-to-Peer
 	-	DHT
 *	[kademlia](https://github.com/nikhilm/kademlia)
 	-	kademlia
-*	
+*	[dhtkv](https://github.com/maxogden/dhtkv)
+	-	cli for bittorrent storing values in mainline torrent DHT
+* 	
 
 
 
