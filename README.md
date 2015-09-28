@@ -138,7 +138,41 @@ Peer-to-Peer
 	-	kademlia
 *	[dhtkv](https://github.com/maxogden/dhtkv)
 	-	cli for bittorrent storing values in mainline torrent DHT
-* 	
+* 	[abstract-peer-routing](https://github.com/diasdavid/abstract-peer-routing)
+	-	a test suite for implementing peer routing in libp2p
+*	[abstract-record-store](https://github.com/diasdavid/abstract-record-store)
+	-	a test suite to implement in IPFS record store
+*	[libp2p-swarm](https://github.com/diasdavid/node-libp2p-swarm)
+	-	IPFS swarm implementation
+*	[libp2p-kad-routing](https://github.com/diasdavid/node-libp2p-kad-routing)
+	-	IPFS Kademlia routing
+*	[libp2p-kad-record-store](https://github.com/diasdavid/node-libp2p-kad-record-store)
+	-	IPFS Kademlia record store
+*	[libp2p-distributed-record-store](https://github.com/diasdavid/node-libp2p-distributed-record-store)
+	-	IPFS distributed record store
+*	[libp2p-record](https://github.com/diasdavid/node-libp2p-record)
+	-	IPFS record object
+*	[libp2p-railing](https://github.com/diasdavid/node-libp2p-railing)
+	-	railing of a Node through a bootstrap peer list
+*	[libp2p-random-walk](https://github.com/diasdavid/node-libp2p-random-walk)
+	-	peer discovery via a DHT random walk
+*	[libp2p-mdns-discovery](https://github.com/diasdavid/node-libp2p-mdns-discovery)
+	-	peer discovery via mDNS
+*	[libp2p-utp](https://github.com/diasdavid/node-libp2p-utp)
+	-	node uTP implementation
+*	[libp2p-spdy](https://github.com/diasdavid/node-libp2p-spdy)
+	-	multistream into Stream Multiplexing
+*	[libp2p-udt](https://github.com/diasdavid/node-libp2p-udt)
+	-	node UDT implementation
+*	[libp2p-udp](https://github.com/diasdavid/node-libp2p-udp)
+	-	node UDP implementation
+*	[libp2p-tcp](https://github.com/diasdavid/node-libp2p-tcp)
+	-	TCP implementation of abstract transport interface
+*	[peer-info](https://github.com/diasdavid/node-peer-info)
+	-	IPFS peer abstraction
+*	[peer-id](https://github.com/diasdavid/node-peer-id)
+	-	IPFS peer id
+*	
 
 
 
@@ -162,7 +196,9 @@ Peer-to-Peer
 	-	P2P multi-multiplexing in Go
 *	[ipfs](https://github.com/ipfs/ipfs)
 	-	distributed file system
-*	
+*	[ipfs specs](https://github.com/ipfs/specs)
+	-	specs for IPFS
+
 
 
 ## Apps
@@ -228,6 +264,7 @@ Peer-to-Peer
 *	[dominictarr](https://github.com/dominictarr?tab=repositories)
 *	[maxogden](https://github.com/maxogden)
 *	[jbenet](https://github.com/jbenet)
+*	[diasdavid](https://github.com/diasdavid)
 
 
 ---
