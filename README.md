@@ -172,7 +172,13 @@ Peer-to-Peer
 	-	IPFS peer abstraction
 *	[peer-id](https://github.com/diasdavid/node-peer-id)
 	-	IPFS peer id
-*	
+*	[muxrpc](https://github.com/ssbc/muxrpc)
+	-	multiplexed rpc
+*	[secret-stack](https://github.com/ssbc/secret-stack)
+	-	connect peers using secret handshakes
+*	[ssb-feed](https://github.com/ssbc/ssb-feed)
+	-	secure scuttlebutt feed
+*	[]()
 
 
 
@@ -198,6 +204,7 @@ Peer-to-Peer
 	-	distributed file system
 *	[ipfs specs](https://github.com/ipfs/specs)
 	-	specs for IPFS
+
 
 
 
@@ -254,6 +261,8 @@ Peer-to-Peer
 ## Other
 
 *	[fill-disk](http://feross.org/fill-disk/)
+*	[brickhouse](https://github.com/ssbc/brickhouse)
+	-	security focused desktop applications
 
 
 ## People
@@ -265,6 +274,7 @@ Peer-to-Peer
 *	[maxogden](https://github.com/maxogden)
 *	[jbenet](https://github.com/jbenet)
 *	[diasdavid](https://github.com/diasdavid)
+*	[pfraze](https://github.com/pfraze)
 
 
 ---
