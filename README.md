@@ -178,7 +178,8 @@ Peer-to-Peer
 	-	connect peers using secret handshakes
 *	[ssb-feed](https://github.com/ssbc/ssb-feed)
 	-	secure scuttlebutt feed
-*	[]()
+*	[mdns](https://github.com/agnat/node_mdns)
+	-	discover services on your local network
 
 
 
