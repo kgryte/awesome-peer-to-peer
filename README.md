@@ -180,6 +180,8 @@ Peer-to-Peer
 	-	secure scuttlebutt feed
 *	[mdns](https://github.com/agnat/node_mdns)
 	-	discover services on your local network
+*	[append-only-torrent](https://github.com/substack/append-only-torrent)
+	-	create a sequence of torrent files for growing input
 
 
 
