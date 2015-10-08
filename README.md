@@ -182,6 +182,8 @@ Peer-to-Peer
 	-	discover services on your local network
 *	[append-only-torrent](https://github.com/substack/append-only-torrent)
 	-	create a sequence of torrent files for growing input
+*	[fully-connected-topology](https://github.com/sorribas/fully-connected-topology)
+	-	create a fully connected topology (mesh)
 
 
 
