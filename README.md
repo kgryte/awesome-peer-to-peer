@@ -186,6 +186,8 @@ Peer-to-Peer
 	-	create a fully connected topology (mesh)
 *	[blockcast](https://github.com/blockai/blockcast)
 	-	protocol for storing data in bitcoin blockchains
+*	[hive.js](https://github.com/Peerialism/hive.js)
+	-	browser-to-browser distributed cache for video using WebRTC
 
 
 
@@ -235,6 +237,7 @@ Peer-to-Peer
 ## Companies
 
 *	[peer5](https://www.peer5.com/)
+*	[hive streaming](http://www.hivestreaming.com/)
 
 
 
