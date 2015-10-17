@@ -222,6 +222,8 @@ Peer-to-Peer
 *	[whiteboard](https://github.com/feross/whiteboard)
 *	[friends](https://github.com/moose-team/friends)
 	-	P2P chat
+*	[openbazaar](https://openbazaar.org/)
+	-	decentralized marketplace
 
 
 
@@ -231,7 +233,7 @@ Peer-to-Peer
 	-	message feed over bittorrent
 *	[GitTorrent](https://github.com/cjb/GitTorrent)
 	-	A decentralization of Github using BitTorrent and Bitcoin
-*
+
 
 
 ## Companies
