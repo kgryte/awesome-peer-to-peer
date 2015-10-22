@@ -188,6 +188,10 @@ Peer-to-Peer
 	-	protocol for storing data in bitcoin blockchains
 *	[hive.js](https://github.com/Peerialism/hive.js)
 	-	browser-to-browser distributed cache for video using WebRTC
+*	[ipscend](https://github.com/diasdavid/ipscend)
+	-	deploy and host web apps on IPFS
+*	[babel-routing-protocol](https://github.com/substack/babel-routing-protocol)
+	-	routing over p2p mesh
 
 
 
@@ -224,6 +228,7 @@ Peer-to-Peer
 	-	P2P chat
 *	[openbazaar](https://openbazaar.org/)
 	-	decentralized marketplace
+	-	[reputation](https://blog.openbazaar.org/decentralized-reputation-part-2/)
 
 
 
