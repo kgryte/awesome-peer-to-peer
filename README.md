@@ -193,6 +193,8 @@ Peer-to-Peer
 *	[babel-routing-protocol](https://github.com/substack/babel-routing-protocol)
 	-	routing over p2p mesh
 *	[webdht](https://github.com/jhiesey/webdht)
+*	[butter](https://github.com/butterproject/butter)
+	-	free parts of popcorn time
 
 
 
