@@ -192,6 +192,8 @@ Peer-to-Peer
 	-	deploy and host web apps on IPFS
 *	[babel-routing-protocol](https://github.com/substack/babel-routing-protocol)
 	-	routing over p2p mesh
+*	[webdht](https://github.com/jhiesey/webdht)
+
 
 
 
@@ -229,6 +231,8 @@ Peer-to-Peer
 *	[openbazaar](https://openbazaar.org/)
 	-	decentralized marketplace
 	-	[reputation](https://blog.openbazaar.org/decentralized-reputation-part-2/)
+*	[ipfsbin](https://github.com/VictorBjelkholm/ipfsbin)
+	-	Run IPFS snippets
 
 
 
