@@ -195,6 +195,8 @@ Peer-to-Peer
 *	[webdht](https://github.com/jhiesey/webdht)
 *	[butter](https://github.com/butterproject/butter)
 	-	free parts of popcorn time
+*	[merkle-patricia-tree](https://github.com/wanderer/merkle-patricia-tree)
+	-	as documented by Ethereum
 
 
 
