@@ -197,6 +197,9 @@ Peer-to-Peer
 	-	free parts of popcorn time
 *	[merkle-patricia-tree](https://github.com/wanderer/merkle-patricia-tree)
 	-	as documented by Ethereum
+*	[rtc-data-stream](https://github.com/kumavis/rtc-data-stream)
+	-	convert a WebRTC data channel into a stream
+	
 
 
 
