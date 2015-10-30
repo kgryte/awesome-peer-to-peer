@@ -226,6 +226,8 @@ Peer-to-Peer
 	-	distributed file system
 *	[ipfs specs](https://github.com/ipfs/specs)
 	-	specs for IPFS
+*	[ipget](https://github.com/noffle/ipget)
+	-	wget for IPFS
 
 
 
