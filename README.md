@@ -199,7 +199,10 @@ Peer-to-Peer
 	-	as documented by Ethereum
 *	[rtc-data-stream](https://github.com/kumavis/rtc-data-stream)
 	-	convert a WebRTC data channel into a stream
-	
+*	[peermesh](https://github.com/pguth/peermesh)
+	-	p2p file transfer using WebRTC
+*	[peertransfer](https://github.com/pguth/peertransfer)
+	-	sends files p2p securely in the browser
 
 
 
@@ -305,6 +308,7 @@ Peer-to-Peer
 *	[jbenet](https://github.com/jbenet)
 *	[diasdavid](https://github.com/diasdavid)
 *	[pfraze](https://github.com/pfraze)
+*	[pgauth](https://github.com/pguth)
 
 
 ---
