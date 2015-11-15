@@ -203,6 +203,8 @@ Peer-to-Peer
 	-	p2p file transfer using WebRTC
 *	[peertransfer](https://github.com/pguth/peertransfer)
 	-	sends files p2p securely in the browser
+*	[merkle-stream](https://github.com/mafintosh/merkle-tree-stream)
+	-	generate a merkle tree from streamed data
 
 
 
