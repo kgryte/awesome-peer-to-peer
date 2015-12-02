@@ -108,6 +108,7 @@ Peer-to-Peer
 *	[merkle-stream](https://github.com/mafintosh/merkle-tree-stream): generate a merkle tree from streamed data
 *	[discovery-channel](https://github.com/maxogden/discovery-channel): search for a key across multiple discovery networks
 *	[anonymous-networks](https://github.com/haadcode/anonymous-networks): distributed, p2p chat app using IPFS
+*	[hyperdrive](https://github.com/mafintosh/hyperdrive): A file sharing network based on rabin file chunking and append only feeds of data verified by merkle trees.
 
 
 
