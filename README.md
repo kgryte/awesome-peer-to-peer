@@ -109,6 +109,7 @@ Peer-to-Peer
 *	[discovery-channel](https://github.com/maxogden/discovery-channel): search for a key across multiple discovery networks
 *	[anonymous-networks](https://github.com/haadcode/anonymous-networks): distributed, p2p chat app using IPFS
 *	[hyperdrive](https://github.com/mafintosh/hyperdrive): A file sharing network based on rabin file chunking and append only feeds of data verified by merkle trees.
+*	[webrtc-connect](https://github.com/diasdavid/webrtc-connect): Establish WebRTC Data Channels between browser-node and node-node with a TCP/HTTP/WebSockets "createServer/attach" like interface
 
 
 
