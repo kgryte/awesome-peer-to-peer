@@ -112,6 +112,7 @@ Peer-to-Peer
 *	[webrtc-connect](https://github.com/diasdavid/webrtc-connect): Establish WebRTC Data Channels between browser-node and node-node with a TCP/HTTP/WebSockets "createServer/attach" like interface
 *	[discovery-network](https://github.com/Raynos/discovery-network): a p2p discovery network
 *	[rtc-stream](https://github.com/vmolsa/rtc-stream): Webrtc using regular node streams
+*	[viraljs](https://github.com/PixelsCommander/ViralJS): p2p distribution of apps
 
 
 
