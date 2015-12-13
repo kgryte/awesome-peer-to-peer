@@ -140,7 +140,7 @@ Peer-to-Peer
 *	[friends](https://github.com/moose-team/friends): P2P chat
 *	[openbazaar](https://openbazaar.org/): decentralized marketplace: [reputation](https://blog.openbazaar.org/decentralized-reputation-part-2/)
 *	[ipfsbin](https://github.com/VictorBjelkholm/ipfsbin): Run IPFS snippets
-
+* [patchwork](https://github.com/ssbc/patchwork): p2p secure messaging
 
 
 ## Experiments
