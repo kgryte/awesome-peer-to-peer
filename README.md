@@ -114,6 +114,7 @@ Peer-to-Peer
 *	[rtc-stream](https://github.com/vmolsa/rtc-stream): Webrtc using regular node streams
 *	[viraljs](https://github.com/PixelsCommander/ViralJS): p2p distribution of apps
 *	[wrtc-ice-cand-parse](https://github.com/alykoshin/wrtc-ice-cand-parse): WRTC Ice Candidate parse
+*	[deejay](https://github.com/mafintosh/deejay): Music player that broadcasts to everyone on the same network
 
 
 
