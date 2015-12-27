@@ -116,6 +116,7 @@ Peer-to-Peer
 *	[wrtc-ice-cand-parse](https://github.com/alykoshin/wrtc-ice-cand-parse): WRTC Ice Candidate parse
 *	[deejay](https://github.com/mafintosh/deejay): Music player that broadcasts to everyone on the same network
 *	[osm-p2p-db](https://github.com/substack/osm-p2p-db): p2p database for open street map data
+*	[dns-discovery](https://github.com/mafintosh/dns-discovery): Discovery peers in a distributed system using regular dns and multicast dns.
 
 
 
