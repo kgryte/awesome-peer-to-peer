@@ -118,6 +118,7 @@ Peer-to-Peer
 *	[osm-p2p-db](https://github.com/substack/osm-p2p-db): p2p database for open street map data
 *	[dns-discovery](https://github.com/mafintosh/dns-discovery): Discovery peers in a distributed system using regular dns and multicast dns.
 *	[k-rpc-socket](https://github.com/mafintosh/k-rpc-socket): Low level implementation of the k-rpc network layer that the BitTorrent DHT uses
+*	[ucat](https://github.com/diasdavid/js-ucat): ucat(uTP cat) implementation in JavaScript to be used with Node.js
 
 
 
