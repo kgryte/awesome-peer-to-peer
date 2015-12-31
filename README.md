@@ -120,6 +120,7 @@ Peer-to-Peer
 *	[k-rpc-socket](https://github.com/mafintosh/k-rpc-socket): Low level implementation of the k-rpc network layer that the BitTorrent DHT uses
 *	[ucat](https://github.com/diasdavid/js-ucat): ucat(uTP cat) implementation in JavaScript to be used with Node.js
 *	[k-rpc](https://github.com/mafintosh/k-rpc): Low-level implementation of the k-rpc protocol used the BitTorrent DHT.
+*	[osm-p2p-server](https://github.com/substack/osm-p2p-server): serve open street map 0.6 api endpoints over a local p2p http server
 
 
 
