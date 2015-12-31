@@ -72,23 +72,23 @@ Peer-to-Peer
 *	[kademlia-dht](https://github.com/jeanlauliac/kademlia-dht): DHT
 *	[kademlia](https://github.com/nikhilm/kademlia): kademlia
 *	[dhtkv](https://github.com/maxogden/dhtkv): cli for bittorrent storing values in mainline torrent DHT
-* 	[abstract-peer-routing](https://github.com/diasdavid/abstract-peer-routing): a test suite for implementing peer routing in libp2p
-*	[abstract-record-store](https://github.com/diasdavid/abstract-record-store): a test suite to implement in IPFS record store
-*	[libp2p-swarm](https://github.com/diasdavid/node-libp2p-swarm): IPFS swarm implementation
-*	[libp2p-kad-routing](https://github.com/diasdavid/node-libp2p-kad-routing): IPFS Kademlia routing
-*	[libp2p-kad-record-store](https://github.com/diasdavid/node-libp2p-kad-record-store): IPFS Kademlia record store
-*	[libp2p-distributed-record-store](https://github.com/diasdavid/node-libp2p-distributed-record-store): IPFS distributed record store
-*	[libp2p-record](https://github.com/diasdavid/node-libp2p-record): IPFS record object
-*	[libp2p-railing](https://github.com/diasdavid/node-libp2p-railing): railing of a Node through a bootstrap peer list
-*	[libp2p-random-walk](https://github.com/diasdavid/node-libp2p-random-walk): peer discovery via a DHT random walk
-*	[libp2p-mdns-discovery](https://github.com/diasdavid/node-libp2p-mdns-discovery): peer discovery via mDNS
-*	[libp2p-utp](https://github.com/diasdavid/node-libp2p-utp): node uTP implementation
-*	[libp2p-spdy](https://github.com/diasdavid/node-libp2p-spdy): multistream into Stream Multiplexing
-*	[libp2p-udt](https://github.com/diasdavid/node-libp2p-udt): node UDT implementation
-*	[libp2p-udp](https://github.com/diasdavid/node-libp2p-udp): node UDP implementation
-*	[libp2p-tcp](https://github.com/diasdavid/node-libp2p-tcp): TCP implementation of abstract transport interface
-*	[peer-info](https://github.com/diasdavid/node-peer-info): IPFS peer abstraction
-*	[peer-id](https://github.com/diasdavid/node-peer-id): IPFS peer id
+* 	[abstract-peer-routing](https://github.com/diasdavid/interface-peer-routing): a test suite for implementing peer routing in libp2p
+*	[abstract-record-store](https://github.com/diasdavid/interface-record-store): a test suite to implement in IPFS record store
+*	[libp2p-swarm](https://github.com/diasdavid/js-libp2p-swarm): IPFS swarm implementation
+*	[libp2p-kad-routing](https://github.com/diasdavid/js-libp2p-kad-routing): IPFS Kademlia routing
+*	[libp2p-kad-record-store](https://github.com/diasdavid/js-libp2p-kad-record-store): IPFS Kademlia record store
+*	[libp2p-distributed-record-store](https://github.com/diasdavid/js-libp2p-distributed-record-store): IPFS distributed record store
+*	[libp2p-record](https://github.com/diasdavid/js-libp2p-record): IPFS record object
+*	[libp2p-railing](https://github.com/diasdavid/js-libp2p-railing): railing of a Node through a bootstrap peer list
+*	[libp2p-random-walk](https://github.com/diasdavid/js-libp2p-random-walk): peer discovery via a DHT random walk
+*	[libp2p-mdns-discovery](https://github.com/diasdavid/js-libp2p-mdns-discovery): peer discovery via mDNS
+*	[libp2p-utp](https://github.com/diasdavid/js-libp2p-utp): node uTP implementation
+*	[libp2p-spdy](https://github.com/diasdavid/js-libp2p-spdy): multistream into Stream Multiplexing
+*	[libp2p-udt](https://github.com/diasdavid/js-libp2p-udt): node UDT implementation
+*	[libp2p-udp](https://github.com/diasdavid/js-libp2p-udp): node UDP implementation
+*	[libp2p-tcp](https://github.com/diasdavid/js-libp2p-tcp): TCP implementation of abstract transport interface
+*	[peer-info](https://github.com/diasdavid/js-peer-info): IPFS peer abstraction
+*	[peer-id](https://github.com/diasdavid/js-peer-id): IPFS peer id
 *	[muxrpc](https://github.com/ssbc/muxrpc): multiplexed rpc
 *	[secret-stack](https://github.com/ssbc/secret-stack): connect peers using secret handshakes
 *	[ssb-feed](https://github.com/ssbc/ssb-feed): secure scuttlebutt feed
@@ -100,8 +100,8 @@ Peer-to-Peer
 *	[ipscend](https://github.com/diasdavid/ipscend): deploy and host web apps on IPFS
 *	[babel-routing-protocol](https://github.com/substack/babel-routing-protocol): routing over p2p mesh
 *	[webdht](https://github.com/jhiesey/webdht)
-*	[butter](https://github.com/butterproject/butter): free parts of popcorn time
-*	[merkle-patricia-tree](https://github.com/wanderer/merkle-patricia-tree): as documented by Ethereum
+*	[butter](https://github.com/butterproject/butter-desktop): free parts of popcorn time
+*	[merkle-patricia-tree](https://github.com/ethereumjs/merkle-patricia-tree): as documented by Ethereum
 *	[rtc-data-stream](https://github.com/kumavis/rtc-data-stream): convert a WebRTC data channel into a stream
 *	[peermesh](https://github.com/pguth/peermesh): p2p file transfer using WebRTC
 *	[peertransfer](https://github.com/pguth/peertransfer): sends files p2p securely in the browser
@@ -127,7 +127,7 @@ Peer-to-Peer
 
 *	[libwebrtc](https://github.com/js-platform/libwebrtc): companion to [wrtc](https://github.com/js-platform/node-webrtc)
 *	[p2p](https://github.com/js-platform/p2p): browser JS library
-*	[SimpleWebRTC](https://github.com/HenrikJoreteg/SimpleWebRTC): browser JS library
+*	[SimpleWebRTC](https://github.com/andyet/SimpleWebRTC): browser JS library
 *	[signalmaster](https://github.com/andyet/signalmaster): signaling server for [SimpleWebRTC](https://github.com/HenrikJoreteg/SimpleWebRTC)
 *	[rfc5766-turn-server](https://github.com/coturn/rfc5766-turn-server/)
 *	[coturn](https://github.com/coturn/coturn): next evolution of the rfc5766-turn-server project
