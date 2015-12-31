@@ -119,6 +119,7 @@ Peer-to-Peer
 *	[dns-discovery](https://github.com/mafintosh/dns-discovery): Discovery peers in a distributed system using regular dns and multicast dns.
 *	[k-rpc-socket](https://github.com/mafintosh/k-rpc-socket): Low level implementation of the k-rpc network layer that the BitTorrent DHT uses
 *	[ucat](https://github.com/diasdavid/js-ucat): ucat(uTP cat) implementation in JavaScript to be used with Node.js
+*	[k-rpc](https://github.com/mafintosh/k-rpc): Low-level implementation of the k-rpc protocol used the BitTorrent DHT.
 
 
 
