@@ -138,6 +138,7 @@ Peer-to-Peer
 *	[ipfs](https://github.com/ipfs/ipfs): distributed file system
 *	[ipfs specs](https://github.com/ipfs/specs): specs for IPFS
 *	[ipget](https://github.com/noffle/ipget): wget for IPFS
+*	[btfs](https://github.com/johang/btfs): bittorrent filesystem based on FUSE (C++)
 
 
 
