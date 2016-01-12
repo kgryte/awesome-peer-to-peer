@@ -123,6 +123,7 @@ Peer-to-Peer
 *	[osm-p2p-server](https://github.com/substack/osm-p2p-server): serve open street map 0.6 api endpoints over a local p2p http server
 *	[secure-webrtc-swarm](https://github.com/peermusic/secure-webrtc-swarm): `webrtc-swarm` with whitelisting and encryption.
 *	[node-ice](https://github.com/nickdesaulniers/node-ice): Interactive Connectivity Establishment (ICE) (RFC 5245) for Node.js
+*	[node-rtc-peer-connection](https://github.com/nickdesaulniers/node-rtc-peer-connection): RTCPeerConnection for Node.js
 
 
 
