@@ -207,6 +207,7 @@ Peer-to-Peer
 *	[diasdavid](https://github.com/diasdavid)
 *	[pfraze](https://github.com/pfraze)
 *	[pgauth](https://github.com/pguth)
+*	[nickdesaulniers](https://github.com/nickdesaulniers)
 
 
 ---
