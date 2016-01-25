@@ -124,6 +124,7 @@ Peer-to-Peer
 *	[secure-webrtc-swarm](https://github.com/peermusic/secure-webrtc-swarm): `webrtc-swarm` with whitelisting and encryption.
 *	[node-ice](https://github.com/nickdesaulniers/node-ice): Interactive Connectivity Establishment (ICE) (RFC 5245) for Node.js
 *	[node-rtc-peer-connection](https://github.com/nickdesaulniers/node-rtc-peer-connection): RTCPeerConnection for Node.js
+*	[ipfs-merkle-dag](https://github.com/vijayee/js-ipfs-merkle-dag): IPFS Merkle DAG JavaScript Implementation
 
 
 
