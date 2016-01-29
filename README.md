@@ -125,6 +125,7 @@ Peer-to-Peer
 *	[node-ice](https://github.com/nickdesaulniers/node-ice): Interactive Connectivity Establishment (ICE) (RFC 5245) for Node.js
 *	[node-rtc-peer-connection](https://github.com/nickdesaulniers/node-rtc-peer-connection): RTCPeerConnection for Node.js
 *	[ipfs-merkle-dag](https://github.com/vijayee/js-ipfs-merkle-dag): IPFS Merkle DAG JavaScript Implementation
+*	[ipfs-blocks](https://github.com/ipfs/js-ipfs-blocks): JavaScript Implementation of Block and BlockService
 
 
 
