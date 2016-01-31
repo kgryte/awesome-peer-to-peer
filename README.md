@@ -126,6 +126,7 @@ Peer-to-Peer
 *	[node-rtc-peer-connection](https://github.com/nickdesaulniers/node-rtc-peer-connection): RTCPeerConnection for Node.js
 *	[ipfs-merkle-dag](https://github.com/vijayee/js-ipfs-merkle-dag): IPFS Merkle DAG JavaScript Implementation
 *	[ipfs-blocks](https://github.com/ipfs/js-ipfs-blocks): JavaScript Implementation of Block and BlockService
+*	[electron-webrtc](https://github.com/mappum/electron-webrtc): Use WebRTC in Node.js via a hidden Electron process
 
 
 
