@@ -127,6 +127,7 @@ Peer-to-Peer
 *	[ipfs-merkle-dag](https://github.com/vijayee/js-ipfs-merkle-dag): IPFS Merkle DAG JavaScript Implementation
 *	[ipfs-blocks](https://github.com/ipfs/js-ipfs-blocks): JavaScript Implementation of Block and BlockService
 *	[electron-webrtc](https://github.com/mappum/electron-webrtc): Use WebRTC in Node.js via a hidden Electron process
+*	[peerweb.js](https://github.com/retrohacker/peerweb.js): A client side library for fetching and rendering a static website from a torrent
 
 
 
