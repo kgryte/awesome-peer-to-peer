@@ -130,6 +130,7 @@ Peer-to-Peer
 *	[peerweb.js](https://github.com/retrohacker/peerweb.js): A client side library for fetching and rendering a static website from a torrent
 *	[webcoin](https://github.com/mappum/webcoin): SPV Bitcoin client for Node.js and the browser
 *	[swarmlog](https://github.com/substack/swarmlog): create a p2p webrtc swarm around a hyperlog
+*	[discovery-swarm](https://github.com/mafintosh/discovery-swarm): A network swarm that uses discovery-channel to find peers
 
 
 
