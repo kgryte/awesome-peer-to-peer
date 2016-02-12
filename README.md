@@ -131,6 +131,7 @@ Peer-to-Peer
 *	[webcoin](https://github.com/mappum/webcoin): SPV Bitcoin client for Node.js and the browser
 *	[swarmlog](https://github.com/substack/swarmlog): create a p2p webrtc swarm around a hyperlog
 *	[discovery-swarm](https://github.com/mafintosh/discovery-swarm): A network swarm that uses discovery-channel to find peers
+*	[ipfs-hyperlog](https://github.com/noffle/ipfs-hyperlog): IPFS Merkle DAG that replicates based on scuttlebutt logs and causal linking.
 
 
 
