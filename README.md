@@ -150,6 +150,7 @@ Peer-to-Peer
 *	[ipfs specs](https://github.com/ipfs/specs): specs for IPFS
 *	[ipget](https://github.com/noffle/ipget): wget for IPFS
 *	[btfs](https://github.com/johang/btfs): bittorrent filesystem based on FUSE (C++)
+*	[swarmbot](https://github.com/substack/swarmbot): mirroring for a p2p mesh of swarmlogs
 
 
 
