@@ -133,6 +133,7 @@ Peer-to-Peer
 *	[discovery-swarm](https://github.com/mafintosh/discovery-swarm): A network swarm that uses discovery-channel to find peers
 *	[ipfs-hyperlog](https://github.com/noffle/ipfs-hyperlog): IPFS Merkle DAG that replicates based on scuttlebutt logs and causal linking.
 *	[karma-peer](https://github.com/dignifiedquire/karma-peer): Test p2p apps in multiple browsers with karma
+*	[nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client
 
 
 
