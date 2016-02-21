@@ -134,6 +134,7 @@ Peer-to-Peer
 *	[ipfs-hyperlog](https://github.com/noffle/ipfs-hyperlog): IPFS Merkle DAG that replicates based on scuttlebutt logs and causal linking.
 *	[karma-peer](https://github.com/dignifiedquire/karma-peer): Test p2p apps in multiple browsers with karma
 *	[nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client
+*	[hyperlog-seed](https://github.com/substack/hyperlog-seed): seed content hashes embedded in a hyperlog
 
 
 
