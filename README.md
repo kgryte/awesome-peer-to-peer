@@ -136,6 +136,7 @@ Peer-to-Peer
 *	[nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client
 *	[hyperlog-seed](https://github.com/substack/hyperlog-seed): seed content hashes embedded in a hyperlog
 *	[peer-tweet](https://github.com/lmatteis/peer-tweet): Decentralized feeds using BitTorrent's DHT.
+*	[torrent-worker](https://github.com/jaruba/torrent-worker): Streaming torrent client in a web worker for Node.js
 
 
 
