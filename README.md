@@ -135,6 +135,7 @@ Peer-to-Peer
 *	[karma-peer](https://github.com/dignifiedquire/karma-peer): Test p2p apps in multiple browsers with karma
 *	[nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client
 *	[hyperlog-seed](https://github.com/substack/hyperlog-seed): seed content hashes embedded in a hyperlog
+*	[peer-tweet](https://github.com/lmatteis/peer-tweet): Decentralized feeds using BitTorrent's DHT.
 
 
 
@@ -163,7 +164,7 @@ Peer-to-Peer
 *	[friends](https://github.com/moose-team/friends): P2P chat
 *	[openbazaar](https://openbazaar.org/): decentralized marketplace: [reputation](https://blog.openbazaar.org/decentralized-reputation-part-2/)
 *	[ipfsbin](https://github.com/VictorBjelkholm/ipfsbin): Run IPFS snippets
-* [patchwork](https://github.com/ssbc/patchwork): p2p secure messaging
+* 	[patchwork](https://github.com/ssbc/patchwork): p2p secure messaging
 
 
 ## Experiments
