@@ -138,6 +138,7 @@ Peer-to-Peer
 *	[peer-tweet](https://github.com/lmatteis/peer-tweet): Decentralized feeds using BitTorrent's DHT.
 *	[torrent-worker](https://github.com/jaruba/torrent-worker): Streaming torrent client in a web worker for Node.js
 *	[hyperlog-webtorrent-seed](https://github.com/substack/hyperlog-webtorrent-seed): seed webtorrent magnet links from a hyperlog
+*	[swarmbot-webtorrent](https://github.com/substack/swarmbot-webtorrent): webtorrent seeding plugin for swarmbot
 
 
 
