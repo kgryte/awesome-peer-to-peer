@@ -140,7 +140,6 @@ Peer-to-Peer
 *	[hyperlog-webtorrent-seed](https://github.com/substack/hyperlog-webtorrent-seed): seed webtorrent magnet links from a hyperlog
 *	[swarmbot-webtorrent](https://github.com/substack/swarmbot-webtorrent): webtorrent seeding plugin for swarmbot
 *	[peer-exchange](https://github.com/mappum/peer-exchange): Decentralized peer discovery and signaling
-*	[webrtc-ips](https://github.com/diafygi/webrtc-ips): Stun IP address requests for WebRTC
 
 
 
@@ -170,12 +169,14 @@ Peer-to-Peer
 *	[openbazaar](https://openbazaar.org/): decentralized marketplace: [reputation](https://blog.openbazaar.org/decentralized-reputation-part-2/)
 *	[ipfsbin](https://github.com/VictorBjelkholm/ipfsbin): Run IPFS snippets
 * 	[patchwork](https://github.com/ssbc/patchwork): p2p secure messaging
+*	[webtorrent-app](https://github.com/feross/webtorrent-app): WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
 
 
 ## Experiments
 
 *	[torrent-log](https://github.com/substack/torrent-log): message feed over bittorrent
 *	[GitTorrent](https://github.com/cjb/GitTorrent): A decentralization of Github using BitTorrent and Bitcoin
+*	[webrtc-ips](https://github.com/diafygi/webrtc-ips): Stun IP address requests for WebRTC
 
 
 
