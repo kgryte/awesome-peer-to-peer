@@ -140,6 +140,7 @@ Peer-to-Peer
 *	[hyperlog-webtorrent-seed](https://github.com/substack/hyperlog-webtorrent-seed): seed webtorrent magnet links from a hyperlog
 *	[swarmbot-webtorrent](https://github.com/substack/swarmbot-webtorrent): webtorrent seeding plugin for swarmbot
 *	[peer-exchange](https://github.com/mappum/peer-exchange): Decentralized peer discovery and signaling
+*	[webrtc-ips](https://github.com/diafygi/webrtc-ips): Stun IP address requests for WebRTC
 
 
 
