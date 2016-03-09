@@ -140,6 +140,8 @@ Peer-to-Peer
 *	[hyperlog-webtorrent-seed](https://github.com/substack/hyperlog-webtorrent-seed): seed webtorrent magnet links from a hyperlog
 *	[swarmbot-webtorrent](https://github.com/substack/swarmbot-webtorrent): webtorrent seeding plugin for swarmbot
 *	[peer-exchange](https://github.com/mappum/peer-exchange): Decentralized peer discovery and signaling
+*	[kad](https://github.com/kadtools/kad): extensible implementation of the kademlia distributed hash table for node.js and the browser
+*	[kad-webrtc](https://github.com/kadtools/kad-webrtc): WebRTC transport for kad Kademlia implementation
 
 
 
