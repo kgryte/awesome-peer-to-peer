@@ -143,6 +143,7 @@ Peer-to-Peer
 *	[kad](https://github.com/kadtools/kad): extensible implementation of the kademlia distributed hash table for node.js and the browser
 *	[kad-webrtc](https://github.com/kadtools/kad-webrtc): WebRTC transport for kad Kademlia implementation
 *	[freeice](https://github.com/DamonOehlman/freeice): Get free, randomized STUN and TURN servers for your WebRTC application
+*	[web-to-dat](https://github.com/joehand/web-to-dat): Clone a website and share with dat
 
 
 
