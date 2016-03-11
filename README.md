@@ -144,6 +144,7 @@ Peer-to-Peer
 *	[kad-webrtc](https://github.com/kadtools/kad-webrtc): WebRTC transport for kad Kademlia implementation
 *	[freeice](https://github.com/DamonOehlman/freeice): Get free, randomized STUN and TURN servers for your WebRTC application
 *	[web-to-dat](https://github.com/joehand/web-to-dat): Clone a website and share with dat
+* 	[webtorrent-cli](https://github.com/feross/webtorrent-cli): WebTorrent, the streaming torrent client. For the command line.
 
 
 
