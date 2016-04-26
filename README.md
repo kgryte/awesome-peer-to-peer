@@ -146,6 +146,7 @@ Peer-to-Peer
 *	[web-to-dat](https://github.com/joehand/web-to-dat): Clone a website and share with dat
 * 	[webtorrent-cli](https://github.com/feross/webtorrent-cli): WebTorrent, the streaming torrent client. For the command line.
 *	[ipfs-data-importing](https://github.com/ipfs/js-ipfs-data-importing): JavaScript implementation of the layout and chunking mechanisms used by IPFS
+*	[chatwizard](https://github.com/substack/chatwizard): p2p webrtc chatroom client
 
 
 
