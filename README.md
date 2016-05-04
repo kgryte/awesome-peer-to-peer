@@ -89,6 +89,7 @@ Peer-to-Peer
 *	[libp2p-tcp](https://github.com/diasdavid/js-libp2p-tcp): TCP implementation of abstract transport interface
 *	[peer-info](https://github.com/diasdavid/js-peer-info): IPFS peer abstraction
 *	[peer-id](https://github.com/diasdavid/js-peer-id): IPFS peer id
+* 	[peer-book](https://github.com/diasdavid/js-peer-book): Peer Store for libp2p and IPFS
 *	[muxrpc](https://github.com/ssbc/muxrpc): multiplexed rpc
 *	[secret-stack](https://github.com/ssbc/secret-stack): connect peers using secret handshakes
 *	[ssb-feed](https://github.com/ssbc/ssb-feed): secure scuttlebutt feed
