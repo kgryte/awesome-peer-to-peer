@@ -179,6 +179,7 @@ Peer-to-Peer
 *	[ipfsbin](https://github.com/VictorBjelkholm/ipfsbin): Run IPFS snippets
 * 	[patchwork](https://github.com/ssbc/patchwork): p2p secure messaging
 *	[webtorrent-app](https://github.com/feross/webtorrent-app): WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
+*	[snapdrop](https://github.com/RobinLinus/snapdrop): A HTML5 clone of Apple's AirDrop
 
 
 ## Experiments
