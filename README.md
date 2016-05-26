@@ -190,6 +190,11 @@ Peer-to-Peer
 *	[webrtc-ips](https://github.com/diafygi/webrtc-ips): Stun IP address requests for WebRTC
 
 
+## Workshops
+
+* 	[chat-room-server-and-p2p](https://github.com/substack/chat-room-server-and-p2p): workshop example creating a websocket chat room replaced with p2p version using webrtc
+
+
 
 ## Companies
 
