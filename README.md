@@ -149,6 +149,7 @@ Peer-to-Peer
 *	[ipfs-data-importing](https://github.com/ipfs/js-ipfs-data-importing): JavaScript implementation of the layout and chunking mechanisms used by IPFS
 *	[chatwizard](https://github.com/substack/chatwizard): p2p webrtc chatroom client
 * 	[js-gossip-cyclon](https://github.com/nicola/js-gossip-cyclon): Cyclon Gossip: (P2P membership management) in Javascript
+* 	[CheckWebPeer](https://github.com/BubuAnabelas/CheckWebPeer): Check WebRTC peers of torrents.
 
 
 
