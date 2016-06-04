@@ -183,6 +183,7 @@ Peer-to-Peer
 *	[webtorrent-app](https://github.com/feross/webtorrent-app): WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
 *	[snapdrop](https://github.com/RobinLinus/snapdrop): A HTML5 clone of Apple's AirDrop
 *	[peerweb](https://github.com/retrohacker/peerweb): PeerWeb browser
+*	[beaker](https://github.com/pfraze/beaker): Decentralization tech in a browser built with electron.
 
 
 ## Experiments
