@@ -153,6 +153,8 @@ Peer-to-Peer
 * 	[hyperdrive-archive-stream](https://github.com/karissa/hyperdrive-archive-swarm): Join the p2p swarm for a given hyperdrive archive.
 * 	[hyperirc](https://github.com/mafintosh/hyperirc): Read IRC through hypercore
 * 	[spellcast](https://github.com/substack/spellcast): p2p live streaming in the browser
+* 	[orbit](https://github.com/haadcode/orbit): Distributed peer-to-peer chat application on IPFS
+* 	[orbit-db](https://github.com/haadcode/orbit-db): Distributed peer-to-peer database on IPFS
 
 
 
