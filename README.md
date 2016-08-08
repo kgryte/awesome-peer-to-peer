@@ -155,6 +155,7 @@ Peer-to-Peer
 * 	[spellcast](https://github.com/substack/spellcast): p2p live streaming in the browser
 * 	[orbit](https://github.com/haadcode/orbit): Distributed peer-to-peer chat application on IPFS
 * 	[orbit-db](https://github.com/haadcode/orbit-db): Distributed peer-to-peer database on IPFS
+* 	[peer-network](https://github.com/mafintosh/peer-network): Create servers/clients that listen on names instead of ports and hostnames and are accessible over the internet
 
 
 
