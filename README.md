@@ -157,6 +157,7 @@ Peer-to-Peer
 * 	[orbit-db](https://github.com/haadcode/orbit-db): Distributed peer-to-peer database on IPFS
 * 	[peer-network](https://github.com/mafintosh/peer-network): Create servers/clients that listen on names instead of ports and hostnames and are accessible over the internet
 *	[resilient-swarm](https://github.com/mikeal/resilient-swarm): An efficient, secure, and reliable WebRTC swarm.
+*	[hyperdht](https://github.com/mafintosh/hyperdht): dht based on kademlia, with a focus on extensibility + modularity
 
 
 
