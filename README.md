@@ -197,6 +197,7 @@ Peer-to-Peer
 *	[torrent-log](https://github.com/substack/torrent-log): message feed over bittorrent
 *	[GitTorrent](https://github.com/cjb/GitTorrent): A decentralization of Github using BitTorrent and Bitcoin
 *	[webrtc-ips](https://github.com/diafygi/webrtc-ips): Stun IP address requests for WebRTC
+*	[web2web](https://github.com/elendirx/web2web): P2P web powered by torrents and blockchain.
 
 
 ## Workshops
