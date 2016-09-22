@@ -176,6 +176,7 @@ Peer-to-Peer
 *	[ipget](https://github.com/noffle/ipget): wget for IPFS
 *	[btfs](https://github.com/johang/btfs): bittorrent filesystem based on FUSE (C++)
 *	[swarmbot](https://github.com/substack/swarmbot): mirroring for a p2p mesh of swarmlogs
+* 	[p2p-graph](https://github.com/feross/p2p-graph): Real-time P2P network visualization with D3
 
 
 
@@ -191,6 +192,8 @@ Peer-to-Peer
 *	[snapdrop](https://github.com/RobinLinus/snapdrop): A HTML5 clone of Apple's AirDrop
 *	[peerweb](https://github.com/retrohacker/peerweb): PeerWeb browser
 *	[beaker](https://github.com/pfraze/beaker): Decentralization tech in a browser built with electron.
+* 	[PeerFast](https://github.com/DiegoRBaquero/PeerFast): https://github.com/DiegoRBaquero/PeerFast
+
 
 
 ## Experiments
