@@ -159,6 +159,7 @@
 * [resilient-swarm](https://github.com/mikeal/resilient-swarm): An efficient, secure, and reliable WebRTC swarm.
 * [hyperdht](https://github.com/mafintosh/hyperdht): dht based on kademlia, with a focus on extensibility + modularity
 * [hypercore-dag](https://github.com/emilbayes/hypercore-dag): DAGs on top of hypercore, allowing verified random-access to graph nodes
+* [hypercore-archiver](https://github.com/mafintosh/hypercore-archiver): A hypercore peer that will backup multiple hypercores/hyperdrives efficiently to disk.
 
 
 
