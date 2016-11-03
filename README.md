@@ -162,6 +162,8 @@
 * [hypercore-archiver](https://github.com/mafintosh/hypercore-archiver): A hypercore peer that will backup multiple hypercores/hyperdrives efficiently to disk.
 * [hyperpipe](https://github.com/mafintosh/hyperpipe): Distributed input/output pipe.
 * [hypername](https://github.com/mafintosh/hypername): Distributed name server
+* [hyperreduce](https://github.com/yoshuawuyts/hyperreduce): Distributed reduce on top of hypercore
+* [hyperfilter](https://github.com/mafintosh/hyperfilter): Distributed map and filter
 
 
 
