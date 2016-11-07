@@ -164,6 +164,7 @@
 * [hypername](https://github.com/mafintosh/hypername): Distributed name server
 * [hyperreduce](https://github.com/yoshuawuyts/hyperreduce): Distributed reduce on top of hypercore
 * [hyperfilter](https://github.com/mafintosh/hyperfilter): Distributed map and filter
+* [normcore](https://github.com/yoshuawuyts/normcore): No-config distributed streams using hypercore
 
 
 
