@@ -203,6 +203,7 @@
 * [ferment](https://github.com/mmckegg/ferment): Peer-to-peer audio sharing and streaming application. Like SoundCloud but decentralized. A mashup of ssb, webtorrent and electron.
 * [roll-call](https://github.com/mikeal/roll-call): Free and reliable audio calls for everyone w/ browser p2p.
 * [cache-p2p](https://github.com/guerrerocarlos/CacheP2P): CacheP2P is a highly distributed cache platform based on WebTorrent and runs only in the browser.
+* [dropub](https://github.com/mikeal/dropub): P2P publishing for everyone. Dropbox meets BitTorrent.
 
 
 
