@@ -165,6 +165,7 @@
 * [hyperreduce](https://github.com/yoshuawuyts/hyperreduce): Distributed reduce on top of hypercore
 * [hyperfilter](https://github.com/mafintosh/hyperfilter): Distributed map and filter
 * [normcore](https://github.com/yoshuawuyts/normcore): No-config distributed streams using hypercore
+* [hyperfeed](https://github.com/poga/hyperfeed): p2p rss publishing
 
 
 
