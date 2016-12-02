@@ -167,6 +167,7 @@
 * [normcore](https://github.com/yoshuawuyts/normcore): No-config distributed streams using hypercore
 * [hyperfeed](https://github.com/poga/hyperfeed): p2p rss publishing
 * [hyperdiscovery](https://github.com/karissa/hyperdiscovery): Join the swarm for a given hypercore or hyperdrive feed.
+* [dht-rpc](https://github.com/mafintosh/dht-rpc): Make RPC calls over a Kademlia based DHT.
 
 
 
