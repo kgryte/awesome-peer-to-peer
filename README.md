@@ -160,6 +160,7 @@
 * [hyperdht](https://github.com/mafintosh/hyperdht): dht based on kademlia, with a focus on extensibility + modularity
 * [hypercore-dag](https://github.com/emilbayes/hypercore-dag): DAGs on top of hypercore, allowing verified random-access to graph nodes
 * [hypercore-archiver](https://github.com/mafintosh/hypercore-archiver): A hypercore peer that will backup multiple hypercores/hyperdrives efficiently to disk.
+* [hyperarchiver](https://github.com/joehand/hyperarchiver): Host, backup, and share hyperdrive archives
 * [hyperpipe](https://github.com/mafintosh/hyperpipe): Distributed input/output pipe.
 * [hypername](https://github.com/mafintosh/hypername): Distributed name server
 * [hyperreduce](https://github.com/yoshuawuyts/hyperreduce): Distributed reduce on top of hypercore
