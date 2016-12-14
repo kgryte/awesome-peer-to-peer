@@ -169,6 +169,7 @@
 * [hyperfeed](https://github.com/poga/hyperfeed): p2p rss publishing
 * [hyperdiscovery](https://github.com/karissa/hyperdiscovery): Join the swarm for a given hypercore or hyperdrive feed.
 * [dht-rpc](https://github.com/mafintosh/dht-rpc): Make RPC calls over a Kademlia based DHT.
+* [hyperdrive-multiwriter](https://github.com/substack/hyperdrive-multiwriter): present a bundle of hyperdrive archives together as a multi-writer view
 
 
 
