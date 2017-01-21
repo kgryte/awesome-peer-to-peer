@@ -172,6 +172,7 @@
 * [hyperdrive-multiwriter](https://github.com/substack/hyperdrive-multiwriter): present a bundle of hyperdrive archives together as a multi-writer view
 * [hyperhealth](https://github.com/karissa/hyperhealth): Monitor the health of a hyperdrive or dat, including peer count and peer mirror percentages.
 * [hyperlapse](https://github.com/yoshuawuyts/hyperlapse): Distributed process manager
+* [voter](https://github.com/mmalecki/voter): Distributed voting based on Scuttlebutt
 
 
 
