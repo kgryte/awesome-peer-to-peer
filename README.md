@@ -173,6 +173,7 @@
 * [hyperhealth](https://github.com/karissa/hyperhealth): Monitor the health of a hyperdrive or dat, including peer count and peer mirror percentages.
 * [hyperlapse](https://github.com/yoshuawuyts/hyperlapse): Distributed process manager
 * [voter](https://github.com/mmalecki/voter): Distributed voting based on Scuttlebutt
+* [hyper-string](https://github.com/noffle/hyper-string): p2p conflict-free string primitive
 
 
 
@@ -213,6 +214,8 @@
 * [roll-call](https://github.com/mikeal/roll-call): Free and reliable audio calls for everyone w/ browser p2p.
 * [cache-p2p](https://github.com/guerrerocarlos/CacheP2P): CacheP2P is a highly distributed cache platform based on WebTorrent and runs only in the browser.
 * [dropub](https://github.com/mikeal/dropub): P2P publishing for everyone. Dropbox meets BitTorrent.
+* [norcal](https://github.com/substack/norcal): P2P calendaring
+* [hyperpad](https://github.com/noffle/hyperpad): P2P collaborative text editor
 
 
 
@@ -258,6 +261,7 @@
 * [dynamic search](http://www.sciencedirect.com/science/article/pii/S0743731510001735)
 * [p2pweb](https://github.com/mildred/p2pweb): Create a web where web pages are published/shared in a P2P fashion
 * [bitweb](https://github.com/mildred/bitweb): websites sharing using bittorrent
+- [p2p handbook](https://github.com/noffle/p2p-handbook): introductory handbook on p2p tech & javascript
 
 
 
@@ -280,6 +284,7 @@
 * [pfraze](https://github.com/pfraze)
 * [pgauth](https://github.com/pguth)
 * [nickdesaulniers](https://github.com/nickdesaulniers)
+* [noffle](https://github.com/noffle)
 
 
 ---
