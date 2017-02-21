@@ -173,6 +173,7 @@
 * [hyperhealth](https://github.com/karissa/hyperhealth): Monitor the health of a hyperdrive or dat, including peer count and peer mirror percentages.
 * [hyperlapse](https://github.com/yoshuawuyts/hyperlapse): Distributed process manager
 * [voter](https://github.com/mmalecki/voter): Distributed voting based on Scuttlebutt
+* [hyperhost](https://github.com/RationalCoding/HyperHost): P2P Node Servers in the Browser
 
 
 
