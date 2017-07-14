@@ -196,6 +196,7 @@
 * [swarmbot](https://github.com/substack/swarmbot): mirroring for a p2p mesh of swarmlogs
 * [p2p-graph](https://github.com/feross/p2p-graph): Real-time P2P network visualization with D3
 * [planktos](https://github.com/xuset/planktos): Serving websites over bittorrent
+* [dat](https://github.com/datproject/dat): Sync data across the distributed web
 
 
 
