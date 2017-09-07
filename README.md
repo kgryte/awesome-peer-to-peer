@@ -17,6 +17,7 @@
 * [rtc-signal](https://github.com/rtc-io/rtc-signal): core logic for client side signaling
 * [rtc-mesh](https://github.com/rtc-io/rtc-mesh): create a P2P mesh data structure using data channels
 * [rtc-core](https://github.com/rtc-io/rtc-core): core definitions and functions for rtc
+* [rtc-everywhere](https://github.com/contra/rtc-everywhere): cross-everything WebRTC mega-project
 * [webtorrent](https://github.com/feross/webtorrent): streaming torrent client for node and the browser
 * [peer-wire-swarm](https://github.com/mafintosh/peer-wire-swarm): swarm implementation for bittorrent
 * [bittorrent-swarm](https://github.com/feross/bittorrent-swarm): bittorrent swarm implementation
@@ -197,6 +198,7 @@
 * [swarmbot](https://github.com/substack/swarmbot): mirroring for a p2p mesh of swarmlogs
 * [p2p-graph](https://github.com/feross/p2p-graph): Real-time P2P network visualization with D3
 * [planktos](https://github.com/xuset/planktos): Serving websites over bittorrent
+* [dat](https://github.com/datproject/dat): Sync data across the distributed web
 
 
 
