@@ -134,6 +134,7 @@
 * [webcoin](https://github.com/mappum/webcoin): SPV Bitcoin client for Node.js and the browser
 * [swarmlog](https://github.com/substack/swarmlog): create a p2p webrtc swarm around a hyperlog
 * [discovery-swarm](https://github.com/mafintosh/discovery-swarm): A network swarm that uses discovery-channel to find peers
+* [discovery-server](https://github.com/mafintosh/discovery-server): A tcp/utp server that auto announces itself using discovery-channel
 * [ipfs-hyperlog](https://github.com/noffle/ipfs-hyperlog): IPFS Merkle DAG that replicates based on scuttlebutt logs and causal linking.
 * [karma-peer](https://github.com/dignifiedquire/karma-peer): Test p2p apps in multiple browsers with karma
 * [nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client
