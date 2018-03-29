@@ -179,7 +179,7 @@
 * [hyperhost](https://github.com/RationalCoding/HyperHost): P2P Node Servers in the Browser
 * [hypertweet](https://github.com/joehand/hypertweet): concept tweet -> hypercore thingy
 * [nile.js](https://github.com/gitsummore/nile.js): Scalable peer to peer live video streaming built on torrents and webRTC
-
+* [chatmesh](https://github.com/substack/chatmesh): p2p chat using hyperdb
 
 
 ## Libraries
