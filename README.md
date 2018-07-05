@@ -218,6 +218,7 @@
 * [roll-call](https://github.com/mikeal/roll-call): Free and reliable audio calls for everyone w/ browser p2p.
 * [cache-p2p](https://github.com/guerrerocarlos/CacheP2P): CacheP2P is a highly distributed cache platform based on WebTorrent and runs only in the browser.
 * [dropub](https://github.com/mikeal/dropub): P2P publishing for everyone. Dropbox meets BitTorrent.
+* [classified-ads](https://github.com/operatornormal/classified-ads): Messaging system desktop app for Linux and Win32.
 
 
 
