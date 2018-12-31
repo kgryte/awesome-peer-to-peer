@@ -247,6 +247,7 @@
 * [Greta](https://greta.io)
 * [peer5](https://www.peer5.com/)
 * [hive streaming](http://www.hivestreaming.com/)
+* [Streamroot](https://streamroot.io/)
 
 
 
