@@ -1,7 +1,6 @@
 # Peer-to-Peer
 
-> A list of peer-to-peer resources. 
-
+> A list of peer-to-peer resources.
 
 ## Modules
 
@@ -16,6 +15,7 @@
 * [rtc-signal](https://github.com/rtc-io/rtc-signal): core logic for client side signaling
 * [rtc-mesh](https://github.com/rtc-io/rtc-mesh): create a P2P mesh data structure using data channels
 * [rtc-core](https://github.com/rtc-io/rtc-core): core definitions and functions for rtc
+* [rtc-everywhere](https://github.com/contra/rtc-everywhere): cross-everything WebRTC mega-project
 * [webtorrent](https://github.com/feross/webtorrent): streaming torrent client for node and the browser
 * [peer-wire-swarm](https://github.com/mafintosh/peer-wire-swarm): swarm implementation for bittorrent
 * [bittorrent-swarm](https://github.com/feross/bittorrent-swarm): bittorrent swarm implementation
@@ -132,6 +132,7 @@
 * [webcoin](https://github.com/mappum/webcoin): SPV Bitcoin client for Node.js and the browser
 * [swarmlog](https://github.com/substack/swarmlog): create a p2p webrtc swarm around a hyperlog
 * [discovery-swarm](https://github.com/mafintosh/discovery-swarm): A network swarm that uses discovery-channel to find peers
+* [discovery-server](https://github.com/mafintosh/discovery-server): A tcp/utp server that auto announces itself using discovery-channel
 * [ipfs-hyperlog](https://github.com/noffle/ipfs-hyperlog): IPFS Merkle DAG that replicates based on scuttlebutt logs and causal linking.
 * [karma-peer](https://github.com/dignifiedquire/karma-peer): Test p2p apps in multiple browsers with karma
 * [nuTorrent](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client
@@ -174,7 +175,12 @@
 * [hyperlapse](https://github.com/yoshuawuyts/hyperlapse): Distributed process manager
 * [voter](https://github.com/mmalecki/voter): Distributed voting based on Scuttlebutt
 * [hyper-string](https://github.com/noffle/hyper-string): p2p conflict-free string primitive
-
+* [hyperhost](https://github.com/RationalCoding/HyperHost): P2P Node Servers in the Browser
+* [hypertweet](https://github.com/joehand/hypertweet): concept tweet -> hypercore thingy
+* [nile.js](https://github.com/gitsummore/nile.js): Scalable peer to peer live video streaming built on torrents and webRTC
+* [chatmesh](https://github.com/substack/chatmesh): p2p chat using hyperdb
+* [SIP.js](https://github.com/onsip/SIP.js): A simple, intuitive, and powerful JavaScript signaling library
+* [noise-network](https://github.com/mafintosh/noise-network): Authenticated P2P network backed by HyperSwarm and NOISE
 
 
 ## Libraries
@@ -194,6 +200,8 @@
 * [swarmbot](https://github.com/substack/swarmbot): mirroring for a p2p mesh of swarmlogs
 * [p2p-graph](https://github.com/feross/p2p-graph): Real-time P2P network visualization with D3
 * [planktos](https://github.com/xuset/planktos): Serving websites over bittorrent
+* [dat](https://github.com/datproject/dat): Sync data across the distributed web
+* [Netflux](https://github.com/coast-team/netflux) - full mesh network of clients and/or servers.
 
 
 
