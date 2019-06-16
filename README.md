@@ -4,6 +4,8 @@
 
 ## Modules
 
+* [hlsjs-p2p-engine](https://github.com/cdnbye/hlsjs-p2p-engine)
+* [ios-p2p-engine](https://github.com/cdnbye/ios-p2p-engine)
 * [easyRTC](https://github.com/priologic/easyrtc)
 * [wrtc](https://github.com/js-platform/node-webrtc): native module for NodeJS
 * [rtc](https://github.com/rtc-io/rtc): WebRTC suite
@@ -248,6 +250,7 @@
 * [peer5](https://www.peer5.com/)
 * [hive streaming](http://www.hivestreaming.com/)
 * [Streamroot](https://streamroot.io/)
+* [CDNBye](https://docs.cdnbye.com/#/en/)
 
 
 
