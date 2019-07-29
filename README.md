@@ -291,7 +291,7 @@
 * [jbenet](https://github.com/jbenet)
 * [diasdavid](https://github.com/diasdavid)
 * [pfraze](https://github.com/pfraze)
-* [pgauth](https://github.com/pguth)
+* [perguth](https://github.com/perguth)
 * [nickdesaulniers](https://github.com/nickdesaulniers)
 * [noffle](https://github.com/noffle)
 
