@@ -181,6 +181,7 @@
 * [chatmesh](https://github.com/substack/chatmesh): p2p chat using hyperdb
 * [SIP.js](https://github.com/onsip/SIP.js): A simple, intuitive, and powerful JavaScript signaling library
 * [noise-network](https://github.com/mafintosh/noise-network): Authenticated P2P network backed by HyperSwarm and NOISE
+* [p2p-mapping](https://github.com/yuanzhanghu/p2p-mapping): Tcp port mapping across NAT, using webrtc data channel.
 
 
 ## Libraries
