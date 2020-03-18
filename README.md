@@ -279,6 +279,7 @@
 * [fill-disk](http://feross.org/fill-disk/)
 * [brickhouse](https://github.com/ssbc/brickhouse): security focused desktop applications
 * [bigchaindb](https://github.com/bigchaindb/bigchaindb): A scalable blockchain database
+* [awesome-rtc](https://github.com/rtckit/awesome-rtc): Curated list of Real Time Communications resources.
 
 
 ## People
