@@ -194,6 +194,7 @@
 * [coturn](https://github.com/coturn/coturn): next evolution of the rfc5766-turn-server project
 * [peerjs](https://github.com/peers/peerjs): simple peer-to-peer with WebRTC
 * [go-peerstream](https://github.com/jbenet/go-peerstream): P2P multi-multiplexing in Go
+* [holochain](https://github.com/holochain/holochain): P2P application development framework, with distributed data storage and integrity enforcement
 * [ipfs](https://github.com/ipfs/ipfs): distributed file system
 * [ipfs specs](https://github.com/ipfs/specs): specs for IPFS
 * [ipget](https://github.com/noffle/ipget): wget for IPFS
@@ -291,7 +292,7 @@
 * [maxogden](https://github.com/maxogden)
 * [jbenet](https://github.com/jbenet)
 * [diasdavid](https://github.com/diasdavid)
-* [pfraze](https://github.com/pfraze)
+* [pfrazee](https://github.com/pfrazee)
 * [perguth](https://github.com/perguth)
 * [nickdesaulniers](https://github.com/nickdesaulniers)
 * [noffle](https://github.com/noffle)
