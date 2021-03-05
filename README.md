@@ -204,6 +204,7 @@
 * [dat](https://github.com/datproject/dat): Sync data across the distributed web
 * [Netflux](https://github.com/coast-team/netflux): full mesh network of clients and/or servers.
 * [libdatachannel](https://github.com/paullouisageneau/libdatachannel): WebRTC DataChannels standalone implementation (C++)
+* [noise](https://github.com/perlin-network/noise) - Simple and powerfull Go P2P library.
 
 
 
