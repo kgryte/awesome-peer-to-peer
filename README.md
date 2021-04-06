@@ -4,6 +4,7 @@
 
 ## Modules
 
+* [foxql](https://github.com/foxql/foxql)
 * [easyRTC](https://github.com/priologic/easyrtc)
 * [wrtc](https://github.com/js-platform/node-webrtc): native module for NodeJS
 * [rtc](https://github.com/rtc-io/rtc): WebRTC suite
@@ -225,6 +226,7 @@
 * [dropub](https://github.com/mikeal/dropub): P2P publishing for everyone. Dropbox meets BitTorrent.
 * [norcal](https://github.com/substack/norcal): P2P calendaring
 * [hyperpad](https://github.com/noffle/hyperpad): P2P collaborative text editor
+* [foxql-app](https://foxql.com): FoxQL is a social network that runs on your browser as peer to peer. It does not require any setup or registration
 
 
 
