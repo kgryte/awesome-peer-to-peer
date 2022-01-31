@@ -182,7 +182,7 @@
 * [chatmesh](https://github.com/substack/chatmesh): p2p chat using hyperdb
 * [SIP.js](https://github.com/onsip/SIP.js): A simple, intuitive, and powerful JavaScript signaling library
 * [noise-network](https://github.com/mafintosh/noise-network): Authenticated P2P network backed by HyperSwarm and NOISE
-
+* [qPeer](https://github.com/Quimzy/qPeer): A peer-to-peer routing protocol to run your decentralized network.
 
 ## Libraries
 
