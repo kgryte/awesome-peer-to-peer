@@ -225,6 +225,7 @@
 * [dropub](https://github.com/mikeal/dropub): P2P publishing for everyone. Dropbox meets BitTorrent.
 * [norcal](https://github.com/substack/norcal): P2P calendaring
 * [hyperpad](https://github.com/noffle/hyperpad): P2P collaborative text editor
+* [Filebase](https://filebase.com): S3-compatible decentralized object storage platform powered by IPFS, Sia, Skynet and Storj.
 
 
 
