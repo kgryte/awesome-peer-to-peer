@@ -204,7 +204,7 @@
 * [dat](https://github.com/datproject/dat): Sync data across the distributed web
 * [Netflux](https://github.com/coast-team/netflux): full mesh network of clients and/or servers.
 * [libdatachannel](https://github.com/paullouisageneau/libdatachannel): WebRTC DataChannels standalone implementation (C++)
-
+* [ouinet](https://github.com/equalitie/ouinet): library to enable decentralized web requests
 
 
 ## Apps
@@ -225,7 +225,7 @@
 * [dropub](https://github.com/mikeal/dropub): P2P publishing for everyone. Dropbox meets BitTorrent.
 * [norcal](https://github.com/substack/norcal): P2P calendaring
 * [hyperpad](https://github.com/noffle/hyperpad): P2P collaborative text editor
-
+* [CENO Browser](https://github.com/censorship-no/ceno-browser): mobile browser that side-steps current Internet censorship methods, powered by Ouinet's P2P network and distributed cache
 
 
 ## Experiments
