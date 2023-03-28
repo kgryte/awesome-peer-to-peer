@@ -268,6 +268,7 @@
 * [gossip](http://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf)
 * [membership management](http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf)
 * [ipfs](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
+* [Polybase](https://framerusercontent.com/modules/assets/GRv4t0d6jQOJbIO7ZOFgonnXqM~f7GLGr1YpwfK85uVr8su7Mxe_3b6VkIZW94sRev8jj4.pdf)
 * [dynamic search](http://www.sciencedirect.com/science/article/pii/S0743731510001735)
 * [p2pweb](https://github.com/mildred/p2pweb): Create a web where web pages are published/shared in a P2P fashion
 * [bitweb](https://github.com/mildred/bitweb): websites sharing using bittorrent
