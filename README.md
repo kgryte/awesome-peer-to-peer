@@ -194,6 +194,7 @@
 * [coturn](https://github.com/coturn/coturn): next evolution of the rfc5766-turn-server project
 * [peerjs](https://github.com/peers/peerjs): simple peer-to-peer with WebRTC
 * [go-peerstream](https://github.com/jbenet/go-peerstream): P2P multi-multiplexing in Go
+* [pilot-protocol](https://github.com/TeoSlayer/pilotprotocol): overlay network stack for AI agents with virtual addresses, encrypted UDP tunnels, NAT traversal, and mutual trust (Go)
 * [ipfs](https://github.com/ipfs/ipfs): distributed file system
 * [ipfs specs](https://github.com/ipfs/specs): specs for IPFS
 * [ipget](https://github.com/noffle/ipget): wget for IPFS
