@@ -225,6 +225,7 @@
 * [dropub](https://github.com/mikeal/dropub): P2P publishing for everyone. Dropbox meets BitTorrent.
 * [norcal](https://github.com/substack/norcal): P2P calendaring
 * [hyperpad](https://github.com/noffle/hyperpad): P2P collaborative text editor
+* [Spixi](https://github.com/ixian-platform/Spixi): Decentralized P2P messenger with post-quantum encryption, calls, file sharing, and crypto wallet. No central servers.
 
 
 
