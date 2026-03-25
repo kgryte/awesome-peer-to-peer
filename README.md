@@ -207,6 +207,8 @@
 
 
 
+* [agent-coworker](https://github.com/ZiwayZhao/agent-coworker): P2P AI agent collaboration over XMTP with E2E encryption, black-box skill invocation, and revocable trust
+
 ## Apps
 
 * [whiteboard](https://github.com/feross/whiteboard)
