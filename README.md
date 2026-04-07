@@ -2,6 +2,7 @@
 
 > A list of peer-to-peer resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for peer-to-peer network workflow orchestration, automated distributed system management, and multi-agent coordination. MIT licensed.
 ## Modules
 
 * [easyRTC](https://github.com/priologic/easyrtc)
