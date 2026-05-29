@@ -4,6 +4,7 @@
 
 ## Modules
 
+* [peerix](https://github.com/peerix-dev/peerix)
 * [easyRTC](https://github.com/priologic/easyrtc)
 * [wrtc](https://github.com/js-platform/node-webrtc): native module for NodeJS
 * [rtc](https://github.com/rtc-io/rtc): WebRTC suite
