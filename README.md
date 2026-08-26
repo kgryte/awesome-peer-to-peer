@@ -204,6 +204,7 @@
 * [dat](https://github.com/datproject/dat): Sync data across the distributed web
 * [Netflux](https://github.com/coast-team/netflux): full mesh network of clients and/or servers.
 * [libdatachannel](https://github.com/paullouisageneau/libdatachannel): WebRTC DataChannels standalone implementation (C++)
+* [p2p-media-loader](https://github.com/Novage/p2p-media-loader): enables peer-to-peer live and VOD video streaming for HLS and MPEG-DASH video players to reduce CDN bandwidth costs
 
 
 
