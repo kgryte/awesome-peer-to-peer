@@ -234,7 +234,7 @@
 * [GitTorrent](https://github.com/cjb/GitTorrent): A decentralization of Github using BitTorrent and Bitcoin
 * [webrtc-ips](https://github.com/diafygi/webrtc-ips): Stun IP address requests for WebRTC
 * [web2web](https://github.com/elendirx/web2web): P2P web powered by torrents and blockchain.
-
+* [Nysiris](https://github.com/odelyzid/Nysiris) - A decentralized P2P portal system with mixnet privacy (Nym/Sphinx) built for cross-platform deployment.
 
 ## Workshops
 
