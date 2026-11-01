@@ -225,6 +225,7 @@
 * [dropub](https://github.com/mikeal/dropub): P2P publishing for everyone. Dropbox meets BitTorrent.
 * [norcal](https://github.com/substack/norcal): P2P calendaring
 * [hyperpad](https://github.com/noffle/hyperpad): P2P collaborative text editor
+* [ZeroServer](https://github.com/Ptraaah/zeroserver): Send files directly between browsers over WebRTC; no server stores the files and every file is SHA-256 verified.
 
 
 
